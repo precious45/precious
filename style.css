@@ -1,0 +1,60 @@
+*{
+	padding: 2%
+	margin:20%;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-cover; 
+}
+body{
+	font-family: montserrat;
+}
+
+.nav-bar{
+	background:skyblue;
+	height: 10%;
+	width: 100%
+}
+#Header{
+
+font-size: 30px;
+}
+
+body {
+  background-image: url("Gift.jpg");
+  background-size: 1500px;
+  background-repeat: no-repeat;
+}*/
+/* 
+}
+nav ul li {
+	display: inline-block;
+	line-height: 100%;
+	margin: 0 0%
+}
+
+
+
+
+}
+
+body {
+  background-image: url("Gift.jpg");
+  background-size: 1500px;
+  background-repeat: no-repeat;
+}*/
+
+
+ul {
+
+ position: relative;
+ float:right;
+ margin:5px;
+
+
+
+}
+li{
+	display: inline;
+	padding: 5px;
+}
+
